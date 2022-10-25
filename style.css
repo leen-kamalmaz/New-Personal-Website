@@ -362,6 +362,9 @@ body {
   .button {
     padding: 12px 2vw;
   }
+  #navbar ul li:hover::after {
+    width: 0%;
+  }
 }
 @media (max-width: 850px) {
   #top-container {
