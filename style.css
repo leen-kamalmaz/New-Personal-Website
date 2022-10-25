@@ -255,7 +255,7 @@ body {
   transition: 1s;
 }
 #confirmation {
-  /* visibility: hidden; */
+  visibility: hidden;
   border-radius: 5px;
   background-color: #d88c9a;
   color: #f5f1ed;
